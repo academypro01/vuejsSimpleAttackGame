@@ -1,5 +1,5 @@
-# myproject
-
+# Simple Attack Game
+Simple `vue.js` project - class project
 ## Project setup
 ```
 npm install

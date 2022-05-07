@@ -1,4 +1,4 @@
-# Simple Attack Game
+# Simple Attack Game -- DEV
 Simple `vue.js` project - class project
 ## Project setup
 ```
